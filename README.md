@@ -1,5 +1,9 @@
 # ADF-Pipelines
 
+### Setup: 
+[![Workflow Demo](https://img.youtube.com/vi/YlqXtvDFVkM/0.jpg)](https://www.youtube.com/watch?v=YlqXtvDFVkM)
+
+
 ### Workflow Demo: 
 [![Workflow Demo](https://img.youtube.com/vi/-_8dDIhOBxw/0.jpg)](https://www.youtube.com/watch?v=-_8dDIhOBxw)
 
