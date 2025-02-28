@@ -1,4 +1,4 @@
-# ADF-Pipelines
+![image](https://github.com/user-attachments/assets/569c361f-2be3-4875-8aad-62d0adad65d4)# ADF-Pipelines
 
 ### Setup: 
 [![Workflow Demo](https://img.youtube.com/vi/YlqXtvDFVkM/0.jpg)](https://www.youtube.com/watch?v=YlqXtvDFVkM)
@@ -19,15 +19,19 @@
 # Cost Analysis & Alerts
 --Free trial (30days) : $200 ~ Rs.16,700/-
 
+## Cost Analysis
 ![image](https://github.com/user-attachments/assets/88b22898-9065-4b9b-8575-8631f457f292)
 ![image](https://github.com/user-attachments/assets/0675027c-6409-4aa6-8a54-ee0f07a8541f)
 ![image](https://github.com/user-attachments/assets/9cfd6502-a559-4d3b-9468-96c40a43d686)
 ![image](https://github.com/user-attachments/assets/db5e1585-93de-4a94-ad5a-a1455189298f)
 ![image](https://github.com/user-attachments/assets/d699bfbf-31b0-4016-9cae-71a5b9b6dfa2)
 
+![image](https://github.com/user-attachments/assets/b3d34e3b-f0a0-41fc-8e31-3a2d9e7f7900)
+
+
 ![image](https://github.com/user-attachments/assets/152ecd0b-9157-44e4-a84a-17f34f51653d)
 
-
+## Cost Alerts
 ![image](https://github.com/user-attachments/assets/4cdfe716-1ca1-4491-ae09-886a7eb7aa38)
 
 ![image](https://github.com/user-attachments/assets/35928177-95dd-4ae6-99ef-46abd18cf195)
